@@ -1,4 +1,4 @@
-# Book-Mangement-group_26
+# Book-Mangement-Project-3
 # Thorium
 
 ## Project - Books Management
